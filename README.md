@@ -1,4 +1,7 @@
-# api documentation for  [mongolass (v2.4.5)](https://github.com/mongolass/mongolass#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongolass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongolass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongolass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongolass)
+# npmdoc-mongolass
+
+#### basic api documentation for  [mongolass (v2.4.5)](https://github.com/mongolass/mongolass#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongolass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongolass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongolass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongolass)
+
 #### Elegant MongoDB driver for Node.js.
 
 [![NPM](https://nodei.co/npm/mongolass.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongolass)
@@ -84,7 +87,8 @@
     "scripts": {
         "test": "node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha"
     },
-    "version": "2.4.5"
+    "version": "2.4.5",
+    "bin": {}
 }
 ```
 
